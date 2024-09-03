@@ -9,4 +9,4 @@
 - JS
 
 
-[Смотреть демо](https://https://rusl-dev.github.io/modimall/)
+[Смотреть демо](https://rusl-dev.github.io/modimall/)
